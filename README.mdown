@@ -1,41 +1,38 @@
-<center><h1>Ted Wood</h1></center>
+<center>Ted Wood</center>
+=========================
+##### <center>| 404.667.1561 | Ted.L.Wood@gmail.com |</center>
 
-|--------------|----------------------|
-| 404.667.1561 | Ted.L.Wood@gmail.com |
-
-
-
-<center><h4><u>Systems Engineer</u></h4></center>
-
-<center><i>Innovation - Automation - Uptime</i></center>
+#### <center>Systems Engineer</center>
+*<center>Innovation - Automation - Uptime</center>*
 
 Self taught and motivated professional consistently recognized for providing a high level of customer service and providing creative solutions to hard problems. Proficiency with industry standard tools such as VMWare ESXi and Redhat Enterprise Linux as well as automation tools, such as Puppet and Foreman, and Agile development tools from Atlassian, such as Jira Server, Bitbucket Server and Hipchat Server.
 
-<center><h2><u>Business Skills</u></h4></center>
+Business Skills
+---------------------------------------
 
-##### <u>Puppet</u>
+##### Puppet
 
 * 3 years experience
 * Experience managing Puppet master
 * Familiarity with Puppet Dashboard
 
-##### <u>RedHat Enterprise Linux</u>
+##### RedHat Enterprise Linux
 
 * 5 years professional experience managing Redhat Entperise Linux
 * Experience with Spacewalk, Katello, Foreman and Koji
 
-##### <u>VMWare ESXi</u>
+##### VMWare ESXi
 
 * 3 years professional experience working with and managing ESXi
 
-##### <u>Atlassian Product Support</u>
+##### Atlassian Product Support
 
 * 5 years experience maintaining Jira and Confluence
 * 3 years experience maintaining Stash (Bitbucket Server)
 * 1 year experience maintaining Hipchat Server and Bamboo
 * Familiarity with Atlassian Crowd
 
-##### <u>Misc. Product Experience</u>
+##### Misc. Product Experience
 Between 1 and 3 years experience with the following:
 
 * KVM 
@@ -43,12 +40,16 @@ Between 1 and 3 years experience with the following:
 * FreeBSD
 * ZFS
 
-<center><h4><u>Professional Experience</u></h4></center>
+Professional Experience
+-----------------------
 
-**Georgia Tech Research Institute** -- *Senior IT Support Professional* -- 2011 - Present
+##### Georgia Tech Research Institute
+*Senior IT Support Professional* -- 2011 - Present
 
-**CareStream Dental Systems** -- *Helpdesk Support* -- 2009 - 2011
+##### CareStream Dental Systems
+*Helpdesk Support* -- 2009 - 2011
 
-**iLearn Inc.** -- *QA and Technical Support** -- 2008 - 2009
+##### iLearn Inc.
+*QA and Technical Support** -- 2008 - 2009
 
 
