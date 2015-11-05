@@ -52,4 +52,8 @@ Professional Experience
 ##### iLearn Inc.
 *QA and Technical Support** -- 2008 - 2009
 
+External Links
+--------------
 
+* [My Github](https://github.com/k4k)
+* [My Wiki](https://k4k.pw/wiki/)
