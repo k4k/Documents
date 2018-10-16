@@ -45,7 +45,7 @@ experience with FreeBSD for use of ZFS based network file storage.
 Professional Experience
 -----------------------
 
-##### Mailchimip
+##### Mailchimp
 *Systems Engineer* -- 2016 - present
 
  * Lead engineer on cloud infrastructure greenfield project
