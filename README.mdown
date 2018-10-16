@@ -1,60 +1,78 @@
 <center>Ted Wood</center>
+
 =========================
-##### <center>| 404.667.1561 | Ted.L.Wood@gmail.com |</center>
 
-#### <center>Systems Engineer</center>
-*<center>Innovation - Automation - Uptime</center>*
+##### | 404.667.1561 | Ted.L.Wood@gmail.com |
 
-Self taught and motivated professional consistently recognized for providing a high level of customer service and providing creative solutions to hard problems. Proficiency with industry standard tools such as VMWare ESXi and Redhat Enterprise Linux as well as automation tools, such as Puppet and Foreman, and Agile development tools from Atlassian, such as Jira Server, Bitbucket Server and Hipchat Server.
+#### Production Engineer
+
+*Innovation - Automation - Uptime*
+
+Self taught and motivated professional consistently recognized for providing
+high level technical expertise and creative solutions to hard, large scale
+problems. Proficiency with Kubernetes, Unix operating systems and Puppet as
+well as Jenkins and Terraform for automating cloud infrastructure.
 
 Business Skills
 ---------------------------------------
 
+##### Terraform and Google Cloud
+
+Lead Engineer in the development of a maintainable and scalable solution for
+cloud resources management within GCP. Extensive experience working with Terraform
+in conjuction with Atlantis and Jenkins to automate the testing and deployment of
+infrastructure code maintainined in a shared git repository.
+
+##### Kubernetes
+
+Member of a small team responsible for developing and driving the adoption of
+Kuberentes and service based architecture as a resplacement for an aging
+monolithic application and system stack.
+
 ##### Puppet
 
-* 3 years experience
-* Experience managing Puppet master
-* Familiarity with Puppet Dashboard
+Used puppet to manage a fleet of over 2000 physical servers across multiple
+datacenters. Comfortable with all aspects of puppet management from module developement
+to the creation and maintenance of roles and profiles for a variety of system
+classifications.
 
-##### RedHat Enterprise Linux
+##### Unix Operating Systems
 
-* 5 years professional experience managing Redhat Entperise Linux
-* Experience with Spacewalk, Katello, Foreman and Koji
-
-##### VMWare ESXi
-
-* 3 years professional experience working with and managing ESXi
-
-##### Atlassian Product Support
-
-* 5 years experience maintaining Jira and Confluence
-* 3 years experience maintaining Stash (Bitbucket Server)
-* 1 year experience maintaining Hipchat Server and Bamboo
-* Familiarity with Atlassian Crowd
-
-##### Misc. Product Experience
-Between 1 and 3 years experience with the following:
-
-* KVM 
-* Xen 
-* FreeBSD
-* ZFS
-* SELinux
+Over 15 years of home Linux use and 8 years of professional use. Primary familiarity
+with RedHat Enterprise Linux (CentOS) and secondary with Ubuntu Linux. Intermediate
+experience with FreeBSD for use of ZFS based network file storage.
 
 Professional Experience
 -----------------------
 
+##### Mailchimip
+*Systems Engineer* -- 2016 - present
+
+ * Lead engineer on cloud infrastructure greenfield project
+ * Member of Kubernetes on-prem project
+ * Provision, maintain and automate large scale infrastructure powering mailchimp.com
+ * Mentor junior engineers and interns
+
 ##### Georgia Tech Research Institute
-*Senior IT Support Professional* -- 2011 - Present
+*Senior IT Support Professional* -- 2011 - 2016
+
+ * Maintain the Linux servers and desktops used by a team of over 100 software engineers
+ * Manage interns and coop student assistants
+ * Develop automation workflows for securing and validating DoD secure systems
 
 ##### CareStream Dental Systems
 *Helpdesk Support* -- 2009 - 2011
 
+ * Field technical support calls for Carestream Dental Systems Customers
+ * Maintain "unofficial" internal XMPP chat server
+
 ##### iLearn Inc.
-*QA and Technical Support** -- 2008 - 2009
+*QA and Technical Support* -- 2008 - 2009
+
+ * Develope QA and Technical Support procedures for a small online learning software company
 
 External Links
 --------------
 
 * [My Github](https://github.com/k4k)
-* [My Wiki](https://k4k.pw/wiki/)
+* [Personal Blog](http://platfrastructure.life)
